@@ -11,6 +11,8 @@ public class Sample {
 			AxisBank a=new AxisBank();
 			a.deposit();
 				
+			System.out.println("check 1");
+			System.out.println("check 2");
 	    }
 	}
 }
